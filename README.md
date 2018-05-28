@@ -20,4 +20,4 @@
 
 Всего упоминаний Новгорода нашела: 57
 
-![]()
+![](https://github.com/larastiepich1999/hw9/blob/master/3.png)
