@@ -6,3 +6,10 @@
 
 1 шаг: ![](https://github.com/larastiepich1999/hw9/blob/master/1.png)
 2 шаг: ![](https://github.com/larastiepich1999/hw9/blob/master/1.2.png)
+
+# Задание 2
+Использовала регулярное выражение:[А-Я][а-яѣ]+слав[а-яѣ]+ 
+
+Всего упоминаний о князьях нашела:564
+
+![]()
